@@ -1,0 +1,4 @@
+﻿Lab0_3.obj : error LNK2005: main уже определен в Lab0_2.obj
+Lab0_4.obj : error LNK2005: main уже определен в Lab0_2.obj
+Lab0_HW.obj : error LNK2005: main уже определен в Lab0_2.obj
+C:\Users\001\source\repos\Lab0\x64\Debug\Lab0.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
