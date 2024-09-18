@@ -1,0 +1,4 @@
+﻿  Lab2.c
+C:\Users\001\source\repos\Lab1_2\Lab2\Lab2.c(37,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\001\source\repos\Lab1_2\Lab2\Lab2.c(59,12): warning C4305: инициализация: усечение из "double" в "float"
+  Lab2.vcxproj -> C:\Users\001\source\repos\Lab1_2\x64\Debug\Lab2.exe
