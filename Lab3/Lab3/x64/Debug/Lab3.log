@@ -1,0 +1,5 @@
+﻿  Lab3.c
+C:\Users\001\source\repos\Lab3\Lab3.c(26,11): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\001\source\repos\Lab3\Lab3.c(36,12): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\Users\001\source\repos\Lab3\Lab3.c(44,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\001\source\repos\Lab3\x64\Debug\Lab3.exe
