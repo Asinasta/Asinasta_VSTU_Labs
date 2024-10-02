@@ -39,7 +39,6 @@ void task_1()
 
 void task_2()
 {
-
     int a = 11, b = 3, x = a / b;
     float y = a / b;
     double z = a / b;
@@ -51,11 +50,11 @@ void task_2()
     printf("%f  %lf\n", (float)a / b, (double)a / b);
     printf("%f  %lf\n", ((float)(a / b)), ((double)(a / b)));
     printf("%f  %lf\n", (float)(a / b), (double)(a / b));
+    
 }
 
 void task_3()
 {
-
     int n, n1, n2, n3;
 
     // 2.2. Организуйте ввод значения
@@ -100,7 +99,6 @@ void task_HW()
 
 int main()
 {
-
     // Для корректной работы с функцией scanf выполните установку директивы препроцессора  _CRT_SECURE_NO_DEPRECATE
     setlocale(LC_ALL, "RUS");
     task_1();
