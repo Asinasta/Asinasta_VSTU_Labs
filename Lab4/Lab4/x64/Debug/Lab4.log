@@ -1,0 +1,7 @@
+﻿  Lab4.c
+C:\Users\001\source\repos\Lab4\Lab4.c(8,9): warning C4005: _CRT_SECURE_NO_DEPRECATE: изменение макроопределения
+      C:\Users\001\source\repos\Lab4\Lab4.c(8,9):
+      "_CRT_SECURE_NO_DEPRECATE" ранее объявлен в командной строке
+  
+C:\Users\001\source\repos\Lab4\Lab4.c(19,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab4.vcxproj -> C:\Users\001\source\repos\Lab4\x64\Debug\Lab4.exe
