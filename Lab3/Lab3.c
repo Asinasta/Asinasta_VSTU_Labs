@@ -102,5 +102,4 @@ int main()
     // Для корректной работы с функцией scanf выполните установку директивы препроцессора  _CRT_SECURE_NO_DEPRECATE
     setlocale(LC_ALL, "RUS");
     task_1();
-
 }
