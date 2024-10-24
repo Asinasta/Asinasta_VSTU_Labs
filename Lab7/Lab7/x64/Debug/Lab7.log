@@ -1,0 +1,6 @@
+﻿  Lab7.c
+C:\Users\azari\source\repos\Lab7\Lab7.c(16,11): warning C4477: "scanf": в строке форматирования "%c" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\azari\source\repos\Lab7\Lab7.c(16,11): warning C4477: "scanf": в строке форматирования "%c" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "int *"
+C:\Users\azari\source\repos\Lab7\Lab7.c(89,5): warning C4098: task_2: функция типа "void", возвращающая значение
+C:\Users\azari\source\repos\Lab7\Lab7.c(109,5): warning C4098: task_HW: функция типа "void", возвращающая значение
+  Lab7.vcxproj -> C:\Users\azari\source\repos\Lab7\x64\Debug\Lab7.exe
