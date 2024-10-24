@@ -1,7 +1,0 @@
-﻿  Lab8.c
-C:\Users\azari\source\repos\Lab8\Lab8.c(21,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\azari\source\repos\Lab8\Lab8.c(79,9): warning C4098: task_HW_1: функция типа "void", возвращающая значение
-C:\Users\azari\source\repos\Lab8\Lab8.c(94,5): warning C4098: task_HW_1: функция типа "void", возвращающая значение
-C:\Users\azari\source\repos\Lab8\Lab8.c(115,9): warning C4098: task_HW_2: функция типа "void", возвращающая значение
-C:\Users\azari\source\repos\Lab8\Lab8.c(131,5): warning C4098: task_HW_2: функция типа "void", возвращающая значение
-  Lab8.vcxproj -> C:\Users\azari\source\repos\Lab8\x64\Debug\Lab8.exe
