@@ -79,7 +79,7 @@ void task_2()
     printf("|------------------|\n");
 
     // Табулирование функции
-    for (x = start; x <= end; x += step) {
+    for (x = start; x < end+step; x += step) {
         double fx = fabs(log10(x)) - pow(x - 2, 2);
         printf("| %3.1f | %10.6f |\n", x, fx);
     }
@@ -100,9 +100,7 @@ void task_HW()
     for (int i = 1; i <= n; i++) {
         result *= (1.0 - 1.0 / (2.0 * i));
     }
-
     printf("Результат: %f\n", result);
-
     return 0;
 }
 
