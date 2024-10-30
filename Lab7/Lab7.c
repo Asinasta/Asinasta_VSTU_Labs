@@ -64,7 +64,7 @@ void task_2()
     double start = 2.0;
     double end = 4.1;
     double step;
-    double x;
+    double x = start;
 
     setlocale(LC_ALL, "RUS");
 
@@ -74,16 +74,16 @@ void task_2()
     scanf("%lf", &step);
 
     // Заголовок таблицы
-    printf("____________________\n");
-    printf("|  x  |   f(x)     |\n");
-    printf("|------------------|\n");
+    printf("______________________\n");
+    printf("|  x   |    f(x)     |\n");
+    printf("|--------------------|\n");
 
     // Табулирование функции
-    for (x = start; x < end+step; x += step) {
+    for (x = start; x <= end; x += step) {
         double fx = fabs(log10(x)) - pow(x - 2, 2);
-        printf("| %3.1f | %10.6f |\n", x, fx);
+        printf("| %3.2f | %10.5f  |\n", x, fx);
     }
-    printf("|__________________|\n");
+    printf("|____________________|\n");
 }
 
 // Задание 3. См.индивидуальный вариант.
