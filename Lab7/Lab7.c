@@ -83,7 +83,6 @@ void task_2()
         double fx = fabs(log10(x)) - pow(x - 2, 2);
         printf("| %3.1f | %10.6f |\n", x, fx);
     }
-
     printf("|__________________|\n");
 }
 
