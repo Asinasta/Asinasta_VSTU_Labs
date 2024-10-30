@@ -61,8 +61,8 @@ void task_1()
 // Задание 2. Напишите программу табулирования  функции  с произвольным шагом согласно варианту. 
 void task_2()
 {
-    double start = 2.0;
-    double end = 4.1;
+    double start = 2.00;
+    double end = 4.10;
     double step;
     double x = start;
 
@@ -81,6 +81,7 @@ void task_2()
     // Табулирование функции
     for (x = start; x <= end; x += step) {
         double fx = fabs(log10(x)) - pow(x - 2, 2);
+        //printf("| %3.20f | %10.5f  |\n", x, fx);
         printf("| %3.2f | %10.5f  |\n", x, fx);
     }
     printf("|____________________|\n");
