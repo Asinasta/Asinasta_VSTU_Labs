@@ -1,0 +1,5 @@
+﻿  Lab10.c
+C:\Users\azari\source\repos\Lab10\Lab10.c(35,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\azari\source\repos\Lab10\Lab10.c(37,17): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\azari\source\repos\Lab10\Lab10.c(56,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab10.vcxproj -> C:\Users\azari\source\repos\Lab10\x64\Debug\Lab10.exe
